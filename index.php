@@ -24,18 +24,6 @@ function random_str($userNum, $chars = 'abcde!"<§fjklmé[nop*qrsù£$%&/()!"£^
 $rand_str = random_str($userNum);
 echo $rand_str;
 
-// echo $rand_str;
-// funzione
-
-
-
-
-
-
-/*
-  Esempio di output: g9n3YMxlCyzbcXwOvfuU
-*/
-
 
 
 ?>
